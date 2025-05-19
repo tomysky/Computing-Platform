@@ -1,0 +1,13 @@
+#yolov8设置文件路径：C:\Users\Administrator\AppData\Roaming\Ultralytics
+
+1.设置镜像地址
+#pip config set global.index-url https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple
+
+2.安装必要的库
+#pip install ultralytics onnx
+
+3.运行脚本
+#nohup python train.py > my_script.log 2>&1 &
+
+4.查看gpu占用频率
+#watch -n 2 nvidia-smi
