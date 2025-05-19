@@ -2,7 +2,7 @@
 
 # 算力平台使用
 
-## 教程视频地址： ssss
+## 教程视频地址: https://www.bilibili.com/video/BV199Eoz7EwQ/?vd_source=4e60c6c3075c23c4aef0f545b39459b8
 
 ## 1.算力平台
 
